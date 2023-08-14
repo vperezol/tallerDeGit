@@ -1,3 +1,5 @@
 # tallerDeGit
 
-Taller de Git de la materia "Algoritmos 1" de la FCEyN - UBA.
+
+Taller de Git de la materia "Algoritmos y Estructuras I" de la FCEyN - UBA.
+
