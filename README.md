@@ -1,3 +1,3 @@
 # tallerDeGit
 
-Taller de Git de la materia "Introducción a la Programación" de la FCEyN - UBA.
+Taller de Git de la materia "Algoritmos 1" de la FCEyN - UBA.
